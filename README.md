@@ -1,5 +1,3 @@
-GitHub Copilot Chat Assistant — README for macnch33s3/LOGSM
-
 # LOGSM
 
 Project containing time-series forecasting code and data for a forecasting exercise. The repository includes Jupyter notebooks, a historical dataset (beer demand), and minimal Python project metadata. Use this README as a starting point; I can update or expand it (add license, CI badges, examples) if you want.
